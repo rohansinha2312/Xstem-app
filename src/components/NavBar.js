@@ -58,7 +58,7 @@ function NavBar() {
                 <Typography variant="h6" className={classes.menuItem}>
                     Contact Us 
                 </Typography>
-                <CustomBtn txt="Trial Our Product"/>
+                <CustomBtn txt="Learn more about Xstem"/>
             </Toolbar>
     )
 }
